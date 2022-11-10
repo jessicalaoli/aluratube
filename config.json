@@ -1,0 +1,66 @@
+{
+    "name": "Jessica Leite ",
+"job": "Engineer Forest",
+"github": "jessicalaoli",
+"playlists": {
+    "Musicas": [
+        {
+            "title": "Avenged Sevenfold - So Far Away",
+            "url": "https://www.youtube.com/watch?v=nhDA7DpHatk&list=RDnhDA7DpHatk&start_radio=1",
+            "thumb": "https://img.youtube.com/vi/A7ry4cx6HfY/hqdefault.jpg"
+        },
+        {
+            "title": "Thirty Seconds To Mars - The Kill",
+            "url": "https://www.youtube.com/watch?v=8yvGCAvOAfM",
+            "thumb": "https://img.youtube.com/vi/8yvGCAvOAfM/hqdefault.jpg"
+        },
+        {
+            "title": "Fuel - HÅRD",
+            "url": "https://www.youtube.com/watch?v=VafGhOEXJEA",
+            "thumb": "https://img.youtube.com/vi/VafGhOEXJEA/hqdefault.jpg"
+        },
+        {
+            "title": "Audioslave - Like a Stone",
+            "url": "https://www.youtube.com/watch?v=7QU1nvuxaMA",
+            "thumb": "https://img.youtube.com/vi/7QU1nvuxaMA/hqdefault.jpg"
+        }
+    ],
+    "front-end": [
+        {
+            "title": "Node JS: Construindo CRUDs com file system focando em serialização e JSON",
+            "url": "https://www.youtube.com/watch?v=dvd3pNYh7So",
+            "thumb": "https://img.youtube.com/vi/dvd3pNYh7So/hqdefault.jpg"
+        },
+        {
+            "title": "Node JS: Construindo CRUDs com file system focando em serialização e JSON",
+            "url": "https://www.youtube.com/watch?v=8q36rNS5yVo",
+            "thumb": "https://img.youtube.com/vi/8q36rNS5yVo/hqdefault.jpg"
+        },
+        {
+            "title": "O que é o Java? #HipstersPontoTube",
+            "url": "https://www.youtube.com/watch?v=90NcVNsKGik",
+            "thumb": "https://img.youtube.com/vi/90NcVNsKGik/hqdefault.jpg"
+        },
+        {
+            "title": "O que é Machine Learning? #HipstersPontoTube",
+            "url": "https://www.youtube.com/watch?v=Iuz_jc96bQk",
+            "thumb": "https://img.youtube.com/vi/Iuz_jc96bQk/hqdefault.jpg"
+        },
+        {
+            "title": "A MELHOR linguagem de programação com Fabio Akita | #HipstersPontoTube",
+            "url": "https://www.youtube.com/watch?v=imB0QVoNrGc",
+            "thumb": "https://img.youtube.com/vi/imB0QVoNrGc/hqdefault.jpg"
+        },
+        {
+            "title": "Top 5 libs que todo aplicativo Android deve ter com Alex Felipe | #HipstersPontoTube",
+            "url": "https://www.youtube.com/watch?v=ldRbnpy-qQs",
+            "thumb": "https://img.youtube.com/vi/ldRbnpy-qQs/hqdefault.jpg"
+        },
+        {
+            "title": "O que é o C#? #HipstersPontoTube",
+            "url": "https://www.youtube.com/watch?v=0JWMVc1CqpA",
+            "thumb": "https://img.youtube.com/vi/0JWMVc1CqpA/hqdefault.jpg"
+        }
+    ]
+}
+}
