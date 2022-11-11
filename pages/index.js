@@ -7,7 +7,7 @@ import { StyledTimeline } from "../src/components/Timeline"
 
 function HomePage() {
 
-  const [valorDoFiltro, setValorDoFiltro] = React.useState("Avenged");
+  const [valorDoFiltro, setValorDoFiltro] = React.useState("");
 
     return (
       <>
