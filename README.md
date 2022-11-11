@@ -4,6 +4,8 @@
 Nesse evento promovido pela Alura aprendi a fazer uma página que mostra vídeos favoritos dos usuários.
 </p>
 
+![alt text](https://github.com/jessicalaoli/aluratube/blob/main/aluratubes.vercel.app_.png)
+
 
 ## 🚀 Tecnologias
 
